@@ -65,6 +65,9 @@ Every account that accesses and uses data classification must have a license ass
 - Security administrator
 - Compliance data administrator
 
+> [!NOTE]
+> Global Reader & Security Reader has view rights to Activity Explorer. This means that a user with either of these roles will be able to Navigate the SCC Activity Explorer Portal and therefore assignemnet to these roles should be managed.
+
 **Microsoft 365 roles**
 
 - Compliance administrator
